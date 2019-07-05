@@ -1,5 +1,4 @@
 hello
 # PROF-ELECT-WS101
-# PROF-ELECT-WS101
-# PROF-ELECT-WS101
-# PROF-ELECT-WS101
+## Buat jr , Ireneo Saldom 
+
