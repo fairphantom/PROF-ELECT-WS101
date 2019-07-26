@@ -7,5 +7,4 @@ function light(sw) {
     pic = "pic_bulbon.gif"
   }
   document.getElementById('myImage').src = pic;
-}
 </script>
