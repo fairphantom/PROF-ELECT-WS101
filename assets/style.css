@@ -37,8 +37,8 @@ body{
 	margin-top: 40px;
 	border-radius: 50%;
 	border:3px solid white;
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	margin-left: 100px;
 	transition: 1s;
 }
